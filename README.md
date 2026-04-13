@@ -12,7 +12,7 @@ Desarrollo de un documento HTML semántico estructurado con header, nav, main, a
 También dispone de una imagen relevante en `img/` y CSS externo desde `css/styles.css`.
 Todo el contenido es claro y fácil de leer.
 
-Mira mi trabajo haciendo [click aquí](https://gerardodamacosta-ui.github.io/gerardamacosta-ui.github.io/Homework/mi-pagina-semantica/index.html)
+Mira mi trabajo haciendo [click aquí](Homework/mi-pagina-semantica/index.html)
 
 
 ---
