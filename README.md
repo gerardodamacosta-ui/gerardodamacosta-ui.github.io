@@ -1,7 +1,7 @@
 # Acompañenme en mi crecimiento profesional, sean bienvenidos!!!
 
 En este espacio personal iré subiendo mi progreso durante la cursada que desarrollaré
-con el grupo de www.soyhenry.com, así como también, actividades nacidas desde la curiosidad,
+con el grupo de [SoyHenry](www.soyhenry.com), así como también, actividades nacidas desde la curiosidad,
 esfuerzo y ganas de aprender mas.
 
 ## Actividades y homeworks:
