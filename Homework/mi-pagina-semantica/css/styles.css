@@ -5,6 +5,10 @@ body {
   color: #232629;
 }
 
+article img {
+  border-radius: 50%;
+}
+
 header, nav, footer {
   padding: 16px;
   background: #ffffff;
